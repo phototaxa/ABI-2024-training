@@ -50,3 +50,19 @@ can also get commit hash with the web interface, histre and use the URL
 ## git checkout hashnumber
 
 look at the file output
+
+# Branching
+## git checkout -b branchname
+create branch
+
+## git commit -m "message"
+commit branch
+
+## git push -u origin branchname
+push the branch
+
+## git checkout master
+set the head
+
+## git merge branchname
+merge both file versions
