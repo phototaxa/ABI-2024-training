@@ -43,6 +43,14 @@ tell us only those files that have changed for this change only
 give me the changes of the textfile in this hash
 can also get commit hash with the web interface, histre and use the URL
 
+## git checkout main
+
+Show contents of your main head
+
+## git checkout hashnumber
+
+show versions of a specific alteration/ update^
+
 ## cat GitCheatsheet.txt
 
  show the textfile in bash
@@ -50,3 +58,13 @@ can also get commit hash with the web interface, histre and use the URL
 ## git checkout hashnumber
 
 look at the file output
+
+## pandoc -o GitCheatsheet.PDF Git_Cheatsheet.md
+
+make a pdf from the markdown file
+
+## touch bla.blub
+
+create an empty file
+
+testtest
