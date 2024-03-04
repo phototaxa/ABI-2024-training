@@ -1,0 +1,14 @@
+git clone https://repo.git repositoryname
+# create the repository on your computer and connect it to github
+
+git add file1, file2
+# add the new file to your git staging area
+
+git status
+# get the status from your repository
+
+git commit -m “Habe fertig!” 
+# commit the file to your repository
+
+git push
+# commit the file to your remote repository
